@@ -1,0 +1,6 @@
+firstName_textbox = "name:firstname"
+lastName_textbox = "name:lastname"
+email_textbox = "name:email"
+password_textbox = "name:password"
+confirmPassword_textbox = "name:password_confirmation"
+createAccountBtn = "xpath://button[@title='Create an Account']"

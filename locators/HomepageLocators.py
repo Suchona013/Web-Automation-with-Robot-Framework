@@ -1,0 +1,6 @@
+create_btn = "xpath://div[@class='panel header']//a[normalize-space()='Create an Account']"
+arrow_icon = "xpath://div[@class='panel header']//button[@type='button']"
+sign_out = "xpath://div[@aria-hidden='false']//a[normalize-space()='Sign Out']"
+signIn = "xpath://div[@class='panel header']//a[contains(text(),'Sign In')]"
+searchTextBox = "id:search"
+searchIcon = "xpath://button[@title='Search']"

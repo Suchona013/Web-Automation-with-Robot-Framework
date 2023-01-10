@@ -1,0 +1,6 @@
+sortBy = "id:sorter"
+products ="class:product-item-link"
+size = "xpath:(//div[@id='option-label-size-143-item-166'])"
+cart_icon = "class:showcart"
+checkout = "xpath://button[@id='top-cart-btn-checkout']"
+product_card = "class:product-item"
